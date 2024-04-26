@@ -22,13 +22,16 @@ Criação de uma interface de usuário (UI) que exibe o valor médio de cada sen
 
 - Linguagem de Programação: Python
 - Framework Web: Flask
+- Framework: SQLAlchemy
+- Biblioteca: Pandas
 - Banco de Dados: SQLite
 - Ferramentas de Análise e Visualização: Chart.js
 
 ## Instalação
 
 - Clone o projeto no diretório desejado do seu computador
-- Instale as dependências usando o comando "pip install -i requirements.txt"
+- Crie um ambiente virtual venv
+- Instale as dependências usando o comando "pip install -r requirements.txt"
 - Acesse o diretório raiz e execute o arquiuvo app.py
 
 ## Rotas

@@ -9,7 +9,6 @@ from .equipment_utils import *
 @equipment.route('/', methods=['POST'])
 def add_equipment():
 
-
     json_data = request.json
 
     error_response = validate_json_data(json_data)
